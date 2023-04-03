@@ -1,7 +1,7 @@
 # BERLIN FUN APP
 
 PYTHON <br >
-folium, pandas
+folium, pandas, html
 
 # Description
 
